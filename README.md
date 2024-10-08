@@ -9,8 +9,7 @@ In this project, **JavaScript**, **CSS**, and **HTML** are used. The project als
 - **HTML**
 - **Font Awesome**
 
-## 
+## Preview
 
 ![](myblog.gif)
 
-# My-Blog
